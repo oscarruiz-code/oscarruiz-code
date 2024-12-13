@@ -3,7 +3,7 @@
 
   <h3>Welcome to my little corner</h3>
 
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="150"/>
 
   <p><a href="README.md">Español</a> | English</p>
   
