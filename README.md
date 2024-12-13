@@ -3,6 +3,8 @@
 
   <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200"/>
 
+  <p>Español | English</p>
+
   <p>📫 <strong>Conéctate conmigo:</strong></p>
 
   <p>
