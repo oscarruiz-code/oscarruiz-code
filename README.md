@@ -3,7 +3,7 @@
 
   <h3>Bienvenido a mi rinconcito</h3>
 
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="100"/>
 
   <p><a href="READMEEN.md">English</a> | Español</p>
   
