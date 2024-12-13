@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy [oscarruiz-code]</h1>
 
-  <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/MA8woLlwXKM2k/giphy.gif" width="200"/>
 
   <p><a href="README_en.md">English</a> | Español</p>
 
