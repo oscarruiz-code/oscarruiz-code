@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi! I'm [oscarruiz-code]</h1>
+  <h1>!Hi! I'm [oscarruiz-code]</h1>
 
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 
