@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 ¡Hola! Soy [oscarruiz-code]</h1>
+  <h1>![image](https://github.com/user-attachments/assets/9b5b07ca-6add-4122-b608-b9fbacf2b2b7)
+ ¡Hola! Soy [oscarruiz-code]</h1>
 
   <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200"/>
 
