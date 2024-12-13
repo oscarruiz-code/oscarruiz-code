@@ -3,9 +3,11 @@
 
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 
-  <p><a href="#" onclick="setLanguage('en')">English</a> | <a href="#" onclick="setLanguage('es')">Español</a></p>
+  <p><a href="#english">English</a> | <a href="#espanol">Español</a></p>
+</div>
 
-  <div id="content-es">
+<div id="espanol">
+  <div align="center">
     <p>📫 <strong>Conéctate conmigo:</strong></p>
     <p>
       <a href="https://www.linkedin.com/in/%C3%B3scar-ruiz-rosa-78b520245/">
@@ -16,8 +18,14 @@
     <hr/>
     <p>✨ ¡Gracias por visitar mi perfil!</p>
   </div>
+</div>
 
-  <div id="content-en" style="display:none;">
+<div id="english" style="display:none;">
+  <div align="center">
+    <h1>👋 Hi! I'm [oscarruiz-code]</h1>
+
+    <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
+
     <p>📫 <strong>Connect with me:</strong></p>
     <p>
       <a href="https://www.linkedin.com/in/%C3%B3scar-ruiz-rosa-78b520245/">
@@ -29,15 +37,3 @@
     <p>✨ Thanks for visiting my profile!</p>
   </div>
 </div>
-
-<script>
-  function setLanguage(language) {
-    if (language === 'en') {
-      document.getElementById('content-es').style.display = 'none';
-      document.getElementById('content-en').style.display = 'block';
-    } else if (language === 'es') {
-      document.getElementById('content-en').style.display = 'none';
-      document.getElementById('content-es').style.display = 'block';
-    }
-  }
-</script>
