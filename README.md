@@ -3,10 +3,7 @@
 
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 
-  <p>
-    <a href="#" onclick="showLanguage('es')">Español</a> | 
-    <a href="#" onclick="showLanguage('en')">English</a>
-  </p>
+  <p><a href="READMEEN.md">English</a> | Español</p>
   
   <p>📫 <strong>Conéctate conmigo:</strong></p>
   <p>
@@ -18,4 +15,3 @@
   <hr/>
   <p>✨ ¡Gracias por visitar mi perfil!</p>
 </div>
-
