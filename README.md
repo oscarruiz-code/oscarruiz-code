@@ -1,7 +1,7 @@
 <div align="center">
   <h1>¡Hola! Soy [oscarruiz-code]</h1>
 
-  <p>Bienvenido a mi rinconcito</p>
+  <h3>Bienvenido a mi rinconcito</h3>
 
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 
