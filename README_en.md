@@ -3,8 +3,6 @@
 
   <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200"/>
 
-  <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
-
   <p>English | <a href="README.md">Español</a></p>
 
   <p>📫 <strong>Connect with me:</strong></p>
