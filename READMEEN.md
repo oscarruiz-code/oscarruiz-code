@@ -3,10 +3,7 @@
 
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 
-  <p>
-    <a href="#" onclick="showLanguage('es')">Español</a> | 
-    <a href="#" onclick="showLanguage('en')">English</a>
-  </p>
+  <p><a href="README.md">Español</a> | English</p>
   
   <p>📫 <strong>Connect with me:</strong></p>
   <p>
