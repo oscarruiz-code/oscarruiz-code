@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: 'Verdana', Geneva, sans-serif; color: #007ACC;">¡Hola! Soy [oscarruiz-code]</h1>
+  <h1 style="font-family: 'SimSun', serif; color: #007ACC;">¡Hola! Soy [oscarruiz-code]</h1>
 
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 
