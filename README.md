@@ -3,7 +3,9 @@
 
   <img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" width="200"/>
 
-  <p>Español | English</p>
+  <p>🌟 ¡Bienvenido a mi rincón del universo del código! 🌟</p>
+
+  <p><a href="README_en.md">English</a> | Español</p>
 
   <p>📫 <strong>Conéctate conmigo:</strong></p>
 
