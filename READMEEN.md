@@ -13,11 +13,13 @@
       <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=flat&logo=download&logoColor=white"/>
     </a>
   </p>
+  <!--
   <p>
     <a href="https://oscarruiz-code.github.io">
       <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=internet-explorer&logoColor=white"/>
     </a>
   </p>
+  -->
   <p>📧 <strong>Email:</strong> <a href="mailto:oscarruizcode@gmail.com">oscarruizcode@gmail.com</a></p>
   <hr/>
   <p>Thanks for visiting my profile!</p>
