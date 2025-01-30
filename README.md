@@ -15,5 +15,5 @@
   </p>
   <p>📧 <strong>Correo:</strong> <a href="mailto:oscarruizcode@gmail.com">oscarruizcode@gmail.com</a></p>
   <hr/>
-  <p>✨ ¡Gracias por visitar mi perfil!</p>
+  <p> ¡Gracias por visitar mi perfil!</p>
 </div>
