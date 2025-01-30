@@ -9,9 +9,14 @@
   
   <p>📫 <strong>Connect with me:</strong></p>
   <p>
-    <a href="https://www.linkedin.com/in/%C3%Bóscar-ruiz-rosa-78b520245/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-     </a>
+    <a href="https://drive.google.com/file/d/1TLWgg-NFmvEKoFYD2Ai_UMjUbFUqtunl/view?usp=sharing" download>
+      <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=flat&logo=download&logoColor=white"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://oscarruiz-code.github.io">
+      <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=internet-explorer&logoColor=white"/>
+    </a>
   </p>
   <p>📧 <strong>Email:</strong> <a href="mailto:oscarruizcode@gmail.com">oscarruizcode@gmail.com</a></p>
   <hr/>
