@@ -14,7 +14,7 @@
     </a>
   </p>
   <p>
-    <a href="https://tu-portafolio.com">
+    <a href="https://oscarruiz-code.github.io">
       <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=flat&logo=internet-explorer&logoColor=white"/>
     </a>
   </p>
