@@ -9,7 +9,7 @@
   
   <p>📫 <strong>Connect with me:</strong></p>
   <p>
-    <a href="https://drive.google.com/file/d/11eA0QhJd_zmoktybtMdWZv47M7wp9pwv/view?usp=sharing" download>
+    <a href="https://drive.google.com/file/d/1lFoHlaGT4Xso2lBxe9D01Wap15iWqm40/view?usp=sharing" download>
       <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=flat&logo=download&logoColor=white"/>
     </a>
   </p>
