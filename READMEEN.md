@@ -5,7 +5,7 @@
 
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="150"/>
 
-  <p><a href="README.md">Español</a> | English</p>
+  <p><a href="README.md">Spanish</a> | English</p>
   
   <p>📫 <strong>Connect with me:</strong></p>
   <p>
