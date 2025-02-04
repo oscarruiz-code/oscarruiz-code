@@ -15,7 +15,7 @@
   </p>
   <p>
     <a href="https://oscarruiz-code.github.io/oscarruiz-code.github.io-ingles/">
-      <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=flat&logo=internet-explorer&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Document-0A66C2?style=flat&logo=internet-explorer&logoColor=white"/>
     </a>
   </p>
   <p>📧 <strong>Email:</strong> <a href="mailto:oscarruizcode@gmail.com">oscarruizcode@gmail.com</a></p>
