@@ -4,6 +4,10 @@
 
 ### Developer with a technical background, focused on building useful digital tools for everyday life.
 
+<p>
+  <a href="README.md">Español</a> | English
+</p>
+
 </div>
 
 ---
@@ -20,11 +24,11 @@ My profile combines hands-on technical experience with software development. I a
 
 I am currently developing personal projects related to:
 
-* Organizing important information.
-* Managing tasks and reminders.
-* Building useful and practical web applications.
-* Digitalizing personal and family processes.
-* Creating tools focused on simplicity, privacy and real-world usefulness.
+- Organizing important information.
+- Managing tasks and reminders.
+- Building useful and practical web applications.
+- Digitalizing personal and family processes.
+- Creating tools focused on simplicity, privacy and real-world usefulness.
 
 Some projects are currently private while I define their structure, security and long-term direction.
 
@@ -34,22 +38,22 @@ Some projects are currently private while I define their structure, security and
 
 ### Development
 
-* Java
-* PHP
-* Laravel
-* Flutter / Dart
-* Kotlin
-* HTML, CSS and JavaScript
-* MySQL
-* Basic Docker
+- Java
+- PHP
+- Laravel
+- Flutter / Dart
+- Kotlin
+- HTML, CSS and JavaScript
+- MySQL
+- Basic Docker
 
 ### Other knowledge
 
-* Industrial automation
-* Electricity
-* Technical assembly and documentation
-* Process organization
-* Practical problem solving
+- Industrial automation
+- Electricity
+- Technical assembly and documentation
+- Process organization
+- Practical problem solving
 
 ---
 
@@ -71,9 +75,9 @@ I am progressively reorganizing my public repositories to better reflect my prof
 
 ## Contact
 
-* Portfolio: [oscarruiz-code.github.io](https://oscarruiz-code.github.io/oscarruiz-code.github.io-ingles/)
-* LinkedIn: [Óscar Ruiz Rosa](https://www.linkedin.com/in/%C3%B3scar-ruiz-rosa-78b520245/)
-* GitHub: [oscarruiz-code](https://github.com/oscarruiz-code)
-* Email: [oscarruizcode@gmail.com](mailto:oscarruizcode@gmail.com)
+- Portfolio: [oscarruiz-code.github.io](https://oscarruiz-code.github.io/oscarruiz-code.github.io-ingles/)
+- LinkedIn: [Óscar Ruiz Rosa](https://www.linkedin.com/in/%C3%B3scar-ruiz-rosa-78b520245/)
+- GitHub: [oscarruiz-code](https://github.com/oscarruiz-code)
+- Email: [oscarruizcode@gmail.com](mailto:oscarruizcode@gmail.com)
 
 ---
